@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ishikawa_jyunnosuke\\Desktop\\try.github\\try.github\\try.github\\try.github.csproj": {}
+    "C:\\Users\\sbs_2sl_001\\Desktop\\try.github\\try.github\\try.github\\try.github.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ishikawa_jyunnosuke\\Desktop\\try.github\\try.github\\try.github\\try.github.csproj": {
+    "C:\\Users\\sbs_2sl_001\\Desktop\\try.github\\try.github\\try.github\\try.github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ishikawa_jyunnosuke\\Desktop\\try.github\\try.github\\try.github\\try.github.csproj",
+        "projectUniqueName": "C:\\Users\\sbs_2sl_001\\Desktop\\try.github\\try.github\\try.github\\try.github.csproj",
         "projectName": "try.github",
-        "projectPath": "C:\\Users\\ishikawa_jyunnosuke\\Desktop\\try.github\\try.github\\try.github\\try.github.csproj",
-        "packagesPath": "C:\\Users\\ishikawa_jyunnosuke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ishikawa_jyunnosuke\\Desktop\\try.github\\try.github\\try.github\\obj\\",
+        "projectPath": "C:\\Users\\sbs_2sl_001\\Desktop\\try.github\\try.github\\try.github\\try.github.csproj",
+        "packagesPath": "C:\\Users\\sbs_2sl_001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sbs_2sl_001\\Desktop\\try.github\\try.github\\try.github\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ishikawa_jyunnosuke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sbs_2sl_001\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
