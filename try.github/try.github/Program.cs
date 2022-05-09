@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Add
+{
+
+    public int add(int a, int b)
+    {
+        return a + b;
+    }
+}
